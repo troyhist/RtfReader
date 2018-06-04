@@ -1,0 +1,40 @@
+
+RtfReader DEMO ver. 1.0
+
+Input File: test_2.rtf
+Read bytes: 5965 (6006 buf size)
+
+--- BEGIN ---
+22, >>>This is the first line<<<
+28, >>>This is the second paragraph<<<
+42, >>>The quick brown fox jumps over a lazy dog.<<<
+ 5, >>>Franz<<<
+ 1, >>> <<<
+ 4, >>>jagt<<<
+37, >>> im komplett verwahrlosten Taxi quer <<<
+ 5, >>>durch<<<
+ 1, >>> <<<
+ 6, >>>Bayern<<<
+ 1, >>>.<<<
+26, >>>В чащах юга жил был цитрус<<<
+ 2, >>>, <<<
+27, >>>да, но фальшивый экземпляр.<<<
+155, >>>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<<<
+15, >>>Special signs: <<<
+ 3, >>>ьцд<<<
+15, >>>Special signs: <<<
+ 3, >>>ЬЦД<<<
+ 9, >>>Space: 2 <<<
+ 5, >>> ”  “<<<
+ 9, >>>Space: 3 <<<
+ 6, >>> ”   “<<<
+17, >>>Space: 3 and Tab <<<
+ 5, >>> ”   <<<
+ 1, >>>“<<<
+23, >>>Space: 3, Tab, 1 space <<<
+ 5, >>> ”   <<<
+ 2, >>> “<<<
+10, >>>2005.08.16<<<
+
+--- END ---
+Parsed RTF file OK

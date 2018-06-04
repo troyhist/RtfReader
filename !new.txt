@@ -1,0 +1,87 @@
+RtfParser TEST
+
+What's new LOG:
+
+legend:
++ added
+- removed
+\ improved/modified
+* synchronization w. other libraries
+
+GLOBAL TODO:
+	-
+
+TODO:
+	- add definition of Symb start/stop point in 'Rtf_I_Parse_Kernel'
+
+BUGS TO REMOVE:
+	- none
+
+USED LIBRARIES:
+- TCI lib, backup no: 98 !!! new !!!
+
+Backup: 17 - 2008.01.31
++ CStrEsc: a replacement for 'RtfStrC_f_hex.c'
++ RtfCodec: a replacement for 'RtfStrC_f.c' and 'RtfStr_f.cpp'
+
+Backup: 16 - 2008.01.30
+\ CRTFElem: compilable
+
+Backup: 15 - 2007.09.03
++ CRTFElem: a class to store elements of RTF file
+
+Backup: 14 (2005.11.11)
+\ implemented as a C++ version
+
+Backup: 13 (2005.11.10)
+--- NOT COMPILABLE ---
++ added 'RtfText_c.cpp'
++ added a class CRtfElem, file 'RtfElem_c.h'
+\ started to convert to C++
+
+Backup: 12 (2005.10.28)
++ added 'RtfProc_dump' function
+- removed 'RtfProc_f_if.c'
+
+Backup: 11 (2005.10.27)
+\ project restructuring
++ added 'RtfDump' & 'RtfElem' functions
+
+Backup: 10 (2005.10.26)
++ added a use of the STL_C primitive 'vector_c'
+
+Backup: 9 (2005.10.24)
+\ project restructuring
+\ RTF parsers is splitted from RTF processor
+
+Backup: 8 (2005.08.19)
+! working version, detects text & control blocks
+
+Backup: 7 (2005.08.18)
+\ in progress
+
+----------- NEW SERIES ----------- PARSE & REPLACE ------
+
+Backup: 6 (2005.08.18)
+! working version, seems it doesn't have bugs
+  keyword \bin was not checked
+
+Backup: 5 (2005.08.18)
+\ compilable version, has bugs: cannot process
+  space-separated properties correctly
+
+Backup: 4 (2005.08.17)
+\ simplified version
+
+Backup: 3 (2005.08.16)
+! HAS BUGS
+\ completely restructured
+
+----------- NEW SERIES -----------
+
+Backup: 2 (2005.08.16)
+\ working version
+
+Backup: 1 (2005.08.15)
+\ 1st version
+

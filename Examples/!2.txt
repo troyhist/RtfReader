@@ -1,0 +1,247 @@
+
+RtfReader DEMO ver. 1.0
+
+       Mode: 0
+ Input File: test_2.rtf
+Output File: xxx
+
+ Read bytes: 5965 (6006 buf size)
+
+--- BEGIN ---
+148, ---{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose ---
+
+ 20, ---02020603050405020304---
+  1, ---}---
+ 16, ---Times New Roman;---
+ 39, ---}{\f1\fswiss\fcharset0\fprq2{\*\panose ---
+ 20, ---020b0604020202020204---
+  1, ---}---
+  6, ---Arial;---
+ 33, ---}
+{\f80\froman\fcharset238\fprq2 ---
+ 19, ---Times New Roman CE;---
+ 32, ---}{\f81\froman\fcharset204\fprq2 ---
+ 20, ---Times New Roman Cyr;---
+ 32, ---}{\f83\froman\fcharset161\fprq2 ---
+ 22, ---Times New Roman Greek;---
+ 32, ---}{\f84\froman\fcharset162\fprq2 ---
+ 20, ---Times New Roman Tur;---
+ 33, ---}
+{\f85\froman\fcharset177\fprq2 ---
+ 25, ---Times New Roman (Hebrew);---
+ 32, ---}{\f86\froman\fcharset178\fprq2 ---
+ 25, ---Times New Roman (Arabic);---
+ 32, ---}{\f87\froman\fcharset186\fprq2 ---
+ 23, ---Times New Roman Baltic;---
+ 32, ---}{\f88\froman\fcharset163\fprq2 ---
+ 29, ---Times New Roman (Vietnamese);---
+ 33, ---}
+{\f90\fswiss\fcharset238\fprq2 ---
+  9, ---Arial CE;---
+ 32, ---}{\f91\fswiss\fcharset204\fprq2 ---
+ 10, ---Arial Cyr;---
+ 32, ---}{\f93\fswiss\fcharset161\fprq2 ---
+ 12, ---Arial Greek;---
+ 32, ---}{\f94\fswiss\fcharset162\fprq2 ---
+ 10, ---Arial Tur;---
+ 32, ---}{\f95\fswiss\fcharset177\fprq2 ---
+ 15, ---Arial (Hebrew);---
+ 33, ---}
+{\f96\fswiss\fcharset178\fprq2 ---
+ 15, ---Arial (Arabic);---
+ 32, ---}{\f97\fswiss\fcharset186\fprq2 ---
+ 13, ---Arial Baltic;---
+ 32, ---}{\f98\fswiss\fcharset163\fprq2 ---
+ 19, ---Arial (Vietnamese);---
+ 12, ---}}{\colortbl---
+  1, ---;---
+ 18, ---\red0\green0\blue0---
+  1, ---;---
+ 20, ---\red0\green0\blue255---
+  1, ---;---
+ 22, ---\red0\green255\blue255---
+  1, ---;---
+ 20, ---\red0\green255\blue0---
+  2, ---;
+---
+ 22, ---\red255\green0\blue255---
+  1, ---;---
+ 20, ---\red255\green0\blue0---
+  1, ---;---
+ 22, ---\red255\green255\blue0---
+  1, ---;---
+ 24, ---\red255\green255\blue255---
+  1, ---;---
+ 20, ---\red0\green0\blue128---
+  1, ---;---
+ 22, ---\red0\green128\blue128---
+  1, ---;---
+ 20, ---\red0\green128\blue0---
+  1, ---;---
+ 22, ---\red128\green0\blue128---
+  1, ---;---
+ 20, ---\red128\green0\blue0---
+  1, ---;---
+ 22, ---\red128\green128\blue0---
+  1, ---;---
+ 24, ---\red128\green128\blue128---
+  2, ---;
+---
+ 24, ---\red192\green192\blue192---
+  1, ---;---
+152, ---}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 ---
+
+  7, ---Normal;---
+ 33, ---}{\*\cs10 \additive \ssemihidden ---
+ 23, ---Default Paragraph Font;---
+340, ---}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden ---
+
+ 13, ---Normal Table;---
+181, ---}}{\*\rsidtbl \rsid1792668\rsid4347272\rsid4931814\rsid5727584\rsid9335177\rsid10438965
+\rsid10445059\rsid13502119\rsid14178154\rsid14827554\rsid14830048\rsid16128148}{\*\generator ---
+
+ 25, ---Microsoft Word 10.0.6764;---
+ 15, ---}{\info{\title ---
+ 22, ---This is the first line---
+ 10, ---}{\author ---
+  8, ---KolevatS---
+ 12, ---}{\operator ---
+  8, ---KolevatS---
+148, ---}{\creatim\yr2005\mo8\dy16\hr13\min15}
+{\revtim\yr2005\mo8\dy16\hr13\min20}{\version12}{\edmins8}{\nofpages1}{\nofwords77}{\nofchars441}{\*\company ---
+
+ 10, ---Siemens AG---
+362, ---}{\nofcharsws517}{\vern16391}}
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale95\nolnhtadjtbl\rsidroot14178154 \fet0\sectd 
+\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta ---
+
+  1, ---.---
+ 61, ---}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta ---
+  1, ---.---
+ 59, ---}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta ---
+  1, ---.---
+ 62, ---}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta ---
+  1, ---)---
+ 59, ---}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb ---
+  1, ---(---
+ 10, ---}{\pntxta ---
+  1, ---)---
+ 61, ---}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ---
+  1, ---(---
+ 10, ---}{\pntxta ---
+  1, ---)---
+ 60, ---}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ---
+  1, ---(---
+ 11, ---}
+{\pntxta ---
+  1, ---)---
+ 61, ---}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ---
+  1, ---(---
+ 10, ---}{\pntxta ---
+  1, ---)---
+ 60, ---}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ---
+  1, ---(---
+ 10, ---}{\pntxta ---
+  1, ---)---
+139, ---}}\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\insrsid10438965 ---
+
+ 23, >>>This is the first line
+<<<
+ 81, ---\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\insrsid10438965 ---
+
+ 28, >>>This is the second paragraph<<<
+144, ---}{\f1\insrsid10438965\charrsid14178154 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14178154 {\f1\insrsid14178154 
+\par ---
+
+ 43, >>>The quick brown fox jumps over a lazy dog.
+<<<
+ 85, ---\par 
+\par }{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+
+  5, >>>Franz<<<
+ 74, ---}{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+  1, >>> <<<
+ 74, ---}{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+  4, >>>jagt<<<
+ 75, ---}{
+\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+ 37, >>> im komplett verwahrlosten Taxi quer <<<
+ 74, ---}{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+  5, >>>durch<<<
+ 75, ---}{
+\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+  1, >>> <<<
+ 74, ---}{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154\charrsid14178154 ---
+  6, >>>Bayern<<<
+ 57, ---}{\f1\cf1\lang1031\langfe1033\langnp1031\insrsid14178154 ---
+  2, >>>.
+<<<
+ 68, ---\par 
+\par }{\f91\cf1\lang1049\langfe1033\langnp1049\insrsid4931814 ---
+ 26, >>>В чащах юга жил был цитрус<<<
+ 56, ---}{\f1\cf1\lang1049\langfe1033\langnp1049\insrsid4931814 ---
+  2, >>>, <<<
+ 58, ---}{
+\f91\cf1\lang1049\langfe1033\langnp1049\insrsid4931814 ---
+ 28, >>>да, но фальшивый экземпляр.
+<<<
+110, ---\par }{\f1\cf1\insrsid4931814 
+\par }{\f1\cf1\lang1142\langfe1033\langnp1142\insrsid10438965\charrsid10438965 ---
+
+155, >>>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<<<
+155, ---}{
+\f1\cf1\lang1142\langfe1033\langnp1142\insrsid10438965\charrsid10438965 
+\par }{\f1\cf1\insrsid10438965\charrsid10438965 
+\par }{\f1\cf1\insrsid1792668 ---
+
+ 15, >>>Special signs: <<<
+ 42, ---}{\f1\cf1\insrsid13502119\charrsid5727584 ---
+  4, >>>ьцд
+<<<
+ 30, ---\par }{\f1\cf1\insrsid1792668 ---
+ 15, >>>Special signs: <<<
+ 26, ---}{\f1\cf1\insrsid10445059 ---
+  3, >>>ЬЦД<<<
+ 90, ---}{\f1\cf1\insrsid13502119 
+\par }{\f1\cf1\insrsid10445059 
+\par }{\f1\cf1\insrsid16128148 ---
+
+  9, >>>Space: 2 <<<
+  8, ---\endash ---
+  5, >>> ”  “<<<
+129, ---}{\f1\cf1\insrsid14827554 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid16128148 {\f1\cf1\insrsid16128148 ---
+
+  9, >>>Space: 3 <<<
+  8, ---\endash ---
+  7, >>> ”   “
+<<<
+  5, ---\par ---
+ 17, >>>Space: 3 and Tab <<<
+  8, ---\endash ---
+  5, >>> ”   <<<
+  5, ---\tab ---
+  2, >>>“
+<<<
+  5, ---\par ---
+ 23, >>>Space: 3, Tab, 1 space <<<
+  8, ---\endash ---
+  5, >>> ”   <<<
+  5, ---\tab ---
+  3, >>> “
+<<<
+ 62, ---\par }{\f1\cf1\insrsid13502119 
+\par }{\f1\cf1\insrsid4347272 ---
+ 11, >>>2005.08.16
+<<<
+122, ---\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14178154 {\f1\insrsid14178154\charrsid5727584 
+\par }}---
+
+
+--- END ---
+Parsed RTF file OK

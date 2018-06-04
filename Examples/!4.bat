@@ -1,0 +1,1 @@
+@call RtfReader 0 test_2.rtf _test_2.rtf > test_2.txt
